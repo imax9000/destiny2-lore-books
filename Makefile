@@ -1,7 +1,7 @@
 
 .PHONY: all
 all: books
-	$(MAKE) -C .. texts
+	$(MAKE) -C .. -j 100 texts
 	rm books/*.md || true
 	cp ../tmp/*.md books
 
