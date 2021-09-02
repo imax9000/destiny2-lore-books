@@ -21,7 +21,7 @@ And the respect he deserved.
 
 ///
 
-As the voice of their so-called empress droned on from a beat-up radio, the soldiers ate. Commander Dravus picked at the bones of a roasted bird, gun laid across his lap. The little red-violet winged creatures on Nessus didn't have much meat on them, but they were challenging and satisfying to trap. 
+As the voice of their so-called empress droned on from a beat-up radio, the soldiers ate. Commander Dracus picked at the bones of a roasted bird, gun laid across his lap. The little red-violet winged creatures on Nessus didn't have much meat on them, but they were challenging and satisfying to trap. 
 
 "What's she mean, 'ancient rites'?" a young Legionary asked. 
 
@@ -29,7 +29,7 @@ The commander looked up.
 
 "Old-timer traditions?" she went on. 
 
-Dravus snorted. "An honored tradition," he said. "Beloved by the Praetorate . Warriors take on challengers to prove their battle-worth." He eyed her. "Calves like you wouldn't remember that." 
+Dracus snorted. "An honored tradition," he said. "Beloved by the Praetorate . Warriors take on challengers to prove their battle-worth." He eyed her. "Calves like you wouldn't remember that." 
 
 "Is it open to anyone?" the Legionary asked. 
 
@@ -37,7 +37,7 @@ He laughed.
 
 "Well," she growled. "Are you taking challengers?" She squared her weight. "You can start with me." 
 
-Dravus looked the bold youngling up and down, calculating the effort. He had no great desire to impress the disgraced emperor's pampered daughter. The leader he knew and served was the dominus , dead or alive. But maybe there was money to be gained from this. He wouldn't turn his nose up at the prospect. 
+Dracus looked the bold youngling up and down, calculating the effort. He had no great desire to impress the disgraced emperor's pampered daughter. The leader he knew and served was the dominus , dead or alive. But maybe there was money to be gained from this. He wouldn't turn his nose up at the prospect. 
 
 He tossed the bird bones aside, lifted his gun, and fired a shot right into the Legionary's belly. She fell. 
 
